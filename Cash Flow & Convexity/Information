@@ -1,0 +1,13 @@
+You'll find an RStudio file where the exercise will be carried out, and an Excel file that explains the exercise step by step.
+
+Let's work through the following exercise: 
+An insurance company is required to pay an annuity annually in advance for 4 years. 
+The first payment is $1.5 million and each subsequent payment is 3% greater than the
+previous one.   
+
+(i)  Calculate, showing all working and using an effective rate of interest of 
+     8% p.a., the convexity of the annuity.
+The company is considering investing in a single zero-coupon bond of suitable term  
+to cover the present value of the annuity.                                          
+(ii) Explain if it is possible to find a zero-coupon bond such that the fund would  
+     be immunised against small changes in the rate of interest  
